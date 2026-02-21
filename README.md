@@ -1,2 +1,3 @@
 # mydemo
-thia is my first git repository
+
+thia is my first git repository creating
